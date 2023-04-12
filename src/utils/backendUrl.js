@@ -1,0 +1,1 @@
+export const backendUrl = 'https://bkedtest.logistiex.com/';
